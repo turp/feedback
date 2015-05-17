@@ -1,6 +1,6 @@
 # feedback
 
-Standing on the shoulders of giants, this is a great idea stolen with pride from [Phil Haack](https://github.com/Haacked/feedback) who apparently was inspired by  [holman/feedback](https://github.com/holman/feedback). Thanks!
+Standing on the shoulders of giants, this great idea was stolen with pride from [Phil Haack](https://github.com/Haacked/feedback) who apparently was inspired by  [holman/feedback](https://github.com/holman/feedback). Thanks!
 
 I like to talk about software, agile, open source, beer, .NET, and other random
 topics at [jayturpin.com](http://jayturpin.com/). 
